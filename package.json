@@ -1,0 +1,21 @@
+{
+  "name": "welcomerbot_v14",
+  "version": "1.0.0",
+  "description": "Welcomer Bot for discord server , made with discord.js 14 by DANGER#1516",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.con/0DANGER0/WelcomerBot"
+  },
+  "keywords": [
+    "DiscordBot"
+  ],
+  "author": "DANGER#1516",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  }
+}
